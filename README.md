@@ -1,3 +1,6 @@
+<p align="center">
+<img src="assets/banner.png" alt="Kampung Pintar v3 Platform Aman 909 Nagari FastAPI">
+</p>
 # Kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
 
 [![Python](https://shields.io)](https://python.org)
