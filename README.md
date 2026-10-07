@@ -1,6 +1,4 @@
-<p align="center">
-<img src="assetsbanner.png" alt="Kampung Pintar v3 Platform Aman 909 Nagari FastAPI">
-</p>
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) ![AES-256](https://img.shields.io/badge/Security-AES--256-red) ![UU PDP](https://img.shields.io/badge/UU_PDP-Compliant-green)
 # Kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
 
 [![Python](https://shields.io)](https://python.org)
@@ -80,4 +78,4 @@ Pastikan perangkat Anda sudah terinstal:
 Proyek **Kampung Pintar v3** ini merupakan kelanjutan dari inisiatif digitalisasi akar rumput mandiri di Sumatera Barat. Dengan membangun identitas digital resmi dan mengamankan jalur pertukaran data publik menggunakan infrastruktur modern terenkripsi, platform ini menjadi jembatan kredibilitas agar administrasi pemerintahan tingkat Nagari di Indonesia dapat diakui secara valid, aman, dan siap berkolaborasi dengan ekosistem digital nasional yang lebih luas.
 
 ---
-*Dikembangkan secara mandiri sebagai portofolio teknologi keamanan siber dan rekayasa perangkat lunak oleh [Mebi Septino](https://github.com/mebiseptino).*
+*Dikembangkan secara mandiri sebagai portofolio teknologi keamanan siber dan rekayasa perangkat lunak oleh [Mebi Septino](https://githu
