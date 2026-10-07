@@ -1,4 +1,7 @@
 <![Python](https://img.shields.io/badge/Python-3.11-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-009688) ![AES-256](https://img.shields.io/badge/Security-AES--256-red) ![UU PDP](https://img.shields.io/badge/UU_PDP-Compliant-green)
+<p align="center">
+  <img src="assetsbanner.png" width="100%" alt="Kampung Pintar v3 Banner">
+</p>
 # Kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
 
 [![Python](https://shields.io)](https://python.org)
