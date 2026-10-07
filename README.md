@@ -1,4 +1,4 @@
-<p align="center">
+ji <p align="center">
   <img src="assetsbanner.png" width="100%" alt="Kampung Pintar v3 Banner">
 </p>
 
@@ -9,12 +9,6 @@
   <img src="https://img.shields.io/badge/UU_PDP-Compliant-green" alt="UU PDP">
 </p>
 *kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
-
-(https://shields.io)](https://python.org)
-(https://shields.io)](https://tiangolo.com)
-(https://shields.io)](https://wikipedia.org)
-(https://shields.io)]()
-
 **Kampung Pintar v3** adalah platform keamanan data (*secure data platform*) tingkat lanjut yang dirancang khusus untuk mengamankan integrasi data kependudukan (NIK dan Kartu Keluarga) di **909 Nagari (Desa Adat) di Provinsi Sumatera Barat**. 
 
 Platform ini dibangun menggunakan framework **Python FastAPI**, validasi data super ketat dari **Pydantic**, serta arsitektur kontainerisasi **Docker**. Mengadaptasi *Meta Applied AI Pattern*, platform ini memastikan pertukaran data publik berjalan dengan p95 latency di bawah 250ms tanpa mengorbankan aspek kepatuhan terhadap regulasi nasional.
