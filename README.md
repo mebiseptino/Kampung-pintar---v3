@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/banner.png" alt="Kampung Pintar v3 Platform Aman 909 Nagari FastAPI">
+<img src="assetsbanner.png" alt="Kampung Pintar v3 Platform Aman 909 Nagari FastAPI">
 </p>
 # Kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
 
