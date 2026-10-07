@@ -3,8 +3,8 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python">
-  <img src="https://img.shields.io/badge/FastAPI-009688" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Python-3.11-blue" alt=
+  <img src="https://img.shields.io/badge/FastAPI-009688" alt=
   <img src="https://img.shields.io/badge/Security-AES--256-red" alt="AES-256">
   <img src="https://img.shields.io/badge/UU_PDP-Compliant-green" alt="UU PDP">
 </p>
