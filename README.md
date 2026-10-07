@@ -3,17 +3,17 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.11-blue" alt=
-  <img src="https://img.shields.io/badge/FastAPI-009688" alt=
+  <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688" alt="FastAPI">
   <img src="https://img.shields.io/badge/Security-AES--256-red" alt="AES-256">
   <img src="https://img.shields.io/badge/UU_PDP-Compliant-green" alt="UU PDP">
 </p>
-# Kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
+*kampung Pintar v3: Secure Data Platform for 909 Nagari (FastAPI & AES-256)
 
-[![Python](https://shields.io)](https://python.org)
-[![Framework](https://shields.io)](https://tiangolo.com)
-[![Compliance](https://shields.io)](https://wikipedia.org)
-[![Security](https://shields.io)]()
+(https://shields.io)](https://python.org)
+(https://shields.io)](https://tiangolo.com)
+(https://shields.io)](https://wikipedia.org)
+(https://shields.io)]()
 
 **Kampung Pintar v3** adalah platform keamanan data (*secure data platform*) tingkat lanjut yang dirancang khusus untuk mengamankan integrasi data kependudukan (NIK dan Kartu Keluarga) di **909 Nagari (Desa Adat) di Provinsi Sumatera Barat**. 
 
