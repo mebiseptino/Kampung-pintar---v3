@@ -1,4 +1,4 @@
-ji <p align="center">
+ <p align="center">
   <img src="assetsbanner.png" width="100%" alt="Kampung Pintar v3 Banner">
 </p>
 
